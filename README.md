@@ -16,9 +16,9 @@ You can create this program as a CLI or JOptionPane.
 In the game Rock Paper Scissors, two players simultaneously choose one of three options: rock, paper, or scissors. 
 If both players choose the same option, then the result is a tie. 
 However, if they choose differently, the winner is determined as follows: 
-• Rock beats scissors because a rock can break a pair of scissors. 
-• Scissors beats paper because scissors can cut paper. 
-• Paper beats rock because a piece of paper can cover a rock. 
+-Rock beats scissors because a rock can break a pair of scissors. 
+-Scissors beats paper because scissors can cut paper. 
+-Paper beats rock because a piece of paper can cover a rock. 
 
 ### Create a game 
 1. The computer randomly chooses rock, paper, or scissors. 
